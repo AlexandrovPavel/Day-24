@@ -1,4 +1,4 @@
- {
+{
   "name": "day-24",
   "version": "1.0.0",
   "description": "",
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/AlexandrovPavel/Day-24#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
   }
 }
